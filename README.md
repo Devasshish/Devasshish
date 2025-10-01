@@ -1,78 +1,73 @@
-# 👋 Hi, I'm Devashish!  
+<!-- HEADER WITH ANIMATION -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> 
+  Hi, I'm <span style="color:#38BDF8;">Devashish</span> 👨‍💻
+</h1>
 
-💻 **B.Sc Computer Applications & IT Student** at **D.N. Institute Of Computer Application, Sardar Patel University** (Graduating in 2025).  
-🌱 Currently learning **Web Development (Django, React, ASP.NET, VB.NET, MySQL, SQLite)**.  
-🚀 Passionate about building **Web Applications, Management Systems, and Social Media Platforms**.  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Learner;Building+Cool+Projects;Always+Learning" />
+</h3>
 
 ---
 
-## 🏫 Education  
-🎓 Pursuing **B.Sc Computer Applications & IT**  
-🏛️ **D.N. Institute Of Computer Application, Sardar Patel University**  
-📅 Graduation Year: **2025**  
+## 📖 About Me  
+- 💻 **B.Sc CA & IT Student** | Graduating 2025  
+- 🌱 Learning **Django, React, ASP.NET, VB.NET, MySQL, SQLite**  
+- 🎯 Goal: Become a **Full-Stack Developer** and contribute to impactful projects  
+- ⚡ Fun fact: I love coding, music & exploring new tools  
 
 ---
 
 ## 🔧 Tech Stack  
 
-### 🖥️ Languages  
-- C, C++  
-- Python  
-- Java  
-- VB.NET  
-
-### 🌐 Web Development  
-- HTML, CSS, JavaScript  
-- Django (Backend)  
-- React (Frontend)  
-- ASP.NET (VB.NET)  
-
-### 🗄️ Databases  
-- MySQL  
-- SQLite  
-
-### ⚙️ Tools & IDEs  
-- Visual Studio Code  
-- Visual Studio  
-- Git & GitHub  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,java,cpp,mysql,git,github,vscode,figma&theme=dark" />
+</p>
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 **Canteen Management System** – Admin-based system for food management, billing & reports.  
-🔹 **Hospital Management System** – Appointment, billing, reports, inpatient & outpatient tracking.  
-🔹 **Vehicle Reselling Management System** – Inventory, sales tracking & real-time reporting.  
-🔹 **Social Media Website** – Custom platform with posting, liking, commenting, profiles & more.  
+<details>
+<summary>Click to see projects 👇</summary>
+
+- **Canteen Management System** – Admin panel, billing, reports (ASP.NET + VB.NET + SQL)  
+- **Hospital Management System** – Appointment, billing, reports, inpatient/outpatient (Django + SQLite)  
+- **Vehicle Reselling Management System** – Inventory, sales tracking, real-time reports (MySQL + Django)  
+- **Social Media Website** – Post, like, comment, profile system (Django + SQLite + HTML/CSS/JS)  
+
+</details>
+
+---
+
+## 🚀 Currently Working On  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Creating+Interactive+GitHub+Profile;Learning+Advanced+React+and+Django;Building+Open+Source+Projects" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Streaks  
 
-![Devashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=devashishmacwan&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devashishmacwan&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishmacwan&layout=compact&theme=tokyonight)  
-
----
-
-## 🌟 About Me  
-- 🎯 Goal: Become a **Full-Stack Web Developer**.  
-- 📖 Learning new frameworks and building real-world projects.  
-- 💬 Ask me about **Web Development, Databases, and Project Documentation**.  
-- 🤝 Open to collaborating on **Web & Software Projects**.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devashishmacwan&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devashishmacwan&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashishmacwan&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devashishmacwan)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devashishmacwan)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devashish@example.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/devashishmacwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/devashishmacwan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:devashish@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=devashishmacwan&color=blue&style=for-the-badge)  
+![Profile Views](https://komarev.com/ghpvc/?username=devashishmacwan&color=blue&style=for-the-badge)
 
-✨ *Thanks for visiting my profile!*  
+✨ *Thanks for visiting my profile!*

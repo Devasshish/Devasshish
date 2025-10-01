@@ -1,14 +1,22 @@
-<!-- HEADER WITH GIF -->
+<!-- HEADER WITH GIF + TYPING EFFECT -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-  Hi, I'm <span style="color:#38BDF8;">Devashish</span>
+  Hi, I'm <span style="color:#38BDF8;">Devashish</span> 👨‍💻
 </h1>
 
-<h3 align="center">🚀 A Passionate Web Developer | 🌱 Always Exploring New Tech</h3>
+<h3 align="center">🚀 Web Developer | 🌱 Full-Stack Learner | 🎯 Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Learner;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Loves+Frontend+%26+Backend;Building+Cool+Projects;Always+Learning+New+Tech" />
 </p>
+
+---
+
+## 📖 About Me  
+- 💻 Currently working on **Full-Stack Web Development**  
+- 🌱 Learning **Django, React & Modern Web Technologies**  
+- 🎯 Goal: To become a **skilled developer** and contribute to impactful projects  
+- ⚡ Fun fact: I love **coding + music + exploring new tools**  
 
 ---
 
@@ -22,26 +30,45 @@
 
 ---
 
-## 💻 Tech Arsenal  
+## 💻 Tech Stack (Skills)  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,java,cpp,mysql,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 🚀 Projects Showcase  
+🔹 **Canteen Management System** – Admin panel, food billing, reports, secure login (ASP.NET + VB.NET + SQL)  
+🔹 **Hospital Management System** – Appointments, billing, reports, inpatient/outpatient management  
+🔹 **Social Media Website** – Post, like, comment, follow system (Django + SQLite + HTML/CSS/JS)  
+🔹 **Vehicle Reselling System** – Secure user authentication, sales tracking, real-time reports (MySQL + Django)  
+
+---
+
+## 🏆 Achievements & Highlights  
+- 🎓 Pursuing **B.Sc CA & IT @ D.N. Institute of Computer Application (Sardar Patel University)**  
+- 📅 Graduation: **2025**  
+- 🌟 Active contributor to **open-source projects**  
+- 🥇 Built multiple academic + personal projects with full documentation  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devashish&theme=radical&show_icons=true&hide_border=true" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devashish&theme=radical&hide_border=true" height="180em"/>
 </p>
 
+---
+
+## 📈 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashish&theme=radical&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 📊 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devashish&theme=tokyo-night" />
 </p>
@@ -75,7 +102,13 @@
 
 ---
 
+## 🧩 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yourleetcodeid?theme=dark&font=Istok%20Web&ext=activity" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=devashish&icon=5&color=12" />
 </p>
-
